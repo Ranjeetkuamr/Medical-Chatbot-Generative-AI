@@ -55,6 +55,6 @@ open up localhost:
 - Python
 - LangChain
 - Flask
-- flan-t5-large
-
+- Flan-t5-large
+- Pinecone
 
