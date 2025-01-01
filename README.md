@@ -2,6 +2,9 @@
 
 ![Screenshot 2025-01-02 052149](https://github.com/user-attachments/assets/01827be4-0f47-401d-865d-6786e386b4c4)
 
+![Screenshot 2025-01-02 052218](https://github.com/user-attachments/assets/1da38803-dd73-4771-a6e4-2fcab2ce9f74)
+
+
 
 # How to run?
 ### STEPS:
