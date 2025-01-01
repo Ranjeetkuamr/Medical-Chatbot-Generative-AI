@@ -1,5 +1,7 @@
 # End-to-end-Medical-Chatbot-Generative-AI
 
+![Screenshot 2025-01-02 052149](https://github.com/user-attachments/assets/01827be4-0f47-401d-865d-6786e386b4c4)
+
 
 # How to run?
 ### STEPS:
