@@ -1,6 +1,6 @@
 # End-to-end-Medical-Chatbot-Generative-AI
 
-![Screenshot 2025-01-02 052149](https://github.com/user-attachments/assets/01827be4-0f47-401d-865d-6786e386b4c4)
+![Screenshot 2025-01-02 052149](https://github.com/user-attachments/assets/d99f188f-9a28-4d37-a346-11c8f77fcc3f)
 
 ![Screenshot 2025-01-02 052218](https://github.com/user-attachments/assets/1da38803-dd73-4771-a6e4-2fcab2ce9f74)
 
